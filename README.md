@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hirbodprime
 - 👀 I’m interested in EthicalHacking
-- 🌱 I’m currently learning how to build tools
-- 💞️ I’m looking to collaborate on building tools
+- 🌱 I’m currently learning javascript and how to build tools with python 
+- 💞️ I’m looking to collaborate on whatever I'm capable of
 - 📫 How to reach me ...
 
 <!---
