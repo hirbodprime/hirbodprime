@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hirbodprime
-- 👀 I’m interested in GameDevelopment 
-- 🌱 I’m currently learning UnrealEngine4
-- 💞️ I’m looking to collaborate on ..
+- 👀 I’m interested in EthicalHacking
+- 🌱 I’m currently learning how to build tools
+- 💞️ I’m looking to collaborate on building tools
 - 📫 How to reach me ...
 
 <!---
