@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hirbodprime
-- 👀 I’m interested in EthicalHacking
+- 👀 I’m interested in EthicalHacking and GameDevelopment
 - 🌱 I’m currently learning javascript and how to build tools with python 
 - 💞️ I’m looking to collaborate on whatever I'm capable of
 - 📫 How to reach me ...
