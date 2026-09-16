@@ -1,22 +1,62 @@
-<h1 align="center">Hi 👋, I'm Hirbod prime</h1>
-<h3 align="center">As a skilled Django back-end developer and Python pure programmer, I am passionate about staying up-to-date with the latest technologies and tools in my field.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirbodprime&label=Profile%20views&color=0e75b6&style=flat" alt="hirbodprime" /> </p>
-
-- 🌱 I’m currently learning **Docker, TDD, Race condition**
-
-- 🤝 I’m looking for help with **Backend knowledge**
-
-- 💬 Ask me about **Django, python, djangorestframework**
-
-- 📫 How to reach me **hirbodprime@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hirbodprime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirbod aflaki" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Hirbod — Python and Django developer. Web applications, APIs and automation." width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:hirbodprime@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://linkedin.com/in/hirbodprime">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://github.com/hirbodprime?tab=repositories">Explore my code</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirbodprime&show_icons=true&locale=en" alt="hirbodprime" /></p>
+## `01` / About me
+
+I'm **Hirbod**, a Python and Django developer. I build web applications, backend APIs and automation tools — from e-commerce workflows to Telegram bots and data collection.
+
+My main toolkit is **Python · Django · Django REST Framework · Redis · Celery · Linux**. I'm also exploring Docker, test-driven development and concurrency.
+
+## `02` / Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/hirbodprime/flhub">FLHub</a></h3>
+<p>A Django application with subscriptions, wallets, reservations and background task processing.</p>
+<p><code>Django</code> <code>DRF</code> <code>Celery</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/hirbodprime/asmodel-webapplication">Asmodel</a></h3>
+<p>A shop web application with product browsing, carts, wishlists, accounts and payment integration.</p>
+<p><code>Django</code> <code>E-commerce</code> <code>Redis</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/hirbodprime/jobcollector">Job Collector</a></h3>
+<p>Job collection tooling combining website crawlers, Telegram integrations and asynchronous scheduling.</p>
+<p><code>Python</code> <code>Django</code> <code>asyncio</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/hirbodprime/fridays">Fridays</a></h3>
+<p>A Django task management project with deadlines, member assignments and completion tracking.</p>
+<p><code>Django</code> <code>Task management</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/hirbodprime/dobare">Dobare</a></h3>
+<p>A clothing submission and catalog application with photo uploads, product stories and public product links.</p>
+<p><code>Django</code> <code>Product catalog</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/hirbodprime/django-coinmarketcap">Django CoinMarketCap</a></h3>
+<p>A Django interface for collecting cryptocurrency data and retrieving coins and logos by symbol.</p>
+<p><code>Django</code> <code>Data collection</code></p>
+</td>
+</tr>
+</table>
+
+## `03` / Let's connect
+
+Interested in Python, Django or backend development? Reach me at **[hirbodprime@gmail.com](mailto:hirbodprime@gmail.com)** or connect on **[LinkedIn](https://linkedin.com/in/hirbodprime)**.
+
+<p align="center"><sub>Build something useful. Understand how it works. Keep improving it.</sub></p>
