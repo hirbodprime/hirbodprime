@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Hirbod — Python and Django developer</title>
+<desc id="desc">A dark terminal-inspired banner with a request, API, queue and data architecture diagram.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c29"/><stop offset="1" stop-color="#080d14"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a5d6ff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="18" fill="url(#grid)"/>
+<path d="M32 1H1168" stroke="url(#accent)" stroke-width="2"/>
+<g font-family="monospace">
+<circle cx="40" cy="33" r="5" fill="#fb7185"/><circle cx="59" cy="33" r="5" fill="#fbbf24"/><circle cx="78" cy="33" r="5" fill="#5eead4"/>
+<text x="103" y="38" fill="#71869e" font-size="12">hirbodprime / developer.profile</text>
+<text x="52" y="104" fill="#5eead4" font-size="14" letter-spacing="3">PYTHON · DJANGO · BACKEND</text>
+<text x="48" y="176" fill="#f0f6fc" font-size="66" font-weight="bold" letter-spacing="-3">Hi, I'm Hirbod.</text>
+<text x="52" y="216" fill="#a9bacd" font-size="19">From an idea to a working system.</text>
+<text x="52" y="249" fill="#a9bacd" font-size="17">Web applications. APIs. Automation.</text>
+<rect x="52" y="292" width="296" height="37" rx="7" fill="#132a30" stroke="#25484c"/>
+<text x="69" y="316" fill="#7ce9d5" font-size="13">$ python -m build_something</text>
+<g fill="none" stroke="#365067" stroke-width="2">
+<path d="M822 126V160M822 204V245M822 225H1040V245"/>
+</g>
+<g font-size="13" text-anchor="middle">
+<rect x="744" y="82" width="156" height="44" rx="8" fill="#111d2b" stroke="#30465c"/>
+<text x="822" y="110" fill="#a9bacd">request</text>
+<rect x="730" y="160" width="184" height="44" rx="8" fill="#103434" stroke="#4db6ac"/>
+<text x="822" y="188" fill="#86efdc">Django / API</text>
+<rect x="744" y="245" width="156" height="44" rx="8" fill="#111d2b" stroke="#30465c"/>
+<text x="822" y="273" fill="#a9bacd">data</text>
+<rect x="962" y="245" width="156" height="44" rx="8" fill="#111d2b" stroke="#30465c"/>
+<text x="1040" y="273" fill="#a9bacd">queue / worker</text>
+</g>
+<circle cx="822" cy="225" r="4" fill="#5eead4"/>
+<text x="744" y="329" fill="#71869e" font-size="11" letter-spacing="2">THINK → BUILD → ITERATE</text>
+</g></svg>
