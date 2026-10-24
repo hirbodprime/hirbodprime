@@ -19,38 +19,26 @@ My main toolkit is **Python · Django · Django REST Framework · Redis · Celer
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3><a href="https://github.com/hirbodprime/flibbo">Flibbo AI</a></h3>
+<p>The complete backend of Flibbo, an AI content app on <a href="https://play.google.com/store/apps/details?id=com.flibbo.app">Google Play</a>: social feed, real-time chat, AI studio, crypto payments and push notifications.</p>
+<p><code>Django</code> <code>DRF</code> <code>AI APIs</code></p>
+</td>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/hirbodprime/flhub">FLHub</a></h3>
-<p>A Django application with subscriptions, wallets, reservations and background task processing.</p>
-<p><code>Django</code> <code>DRF</code> <code>Celery</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/hirbodprime/asmodel-webapplication">Asmodel</a></h3>
-<p>A shop web application with product browsing, carts, wishlists, accounts and payment integration.</p>
-<p><code>Django</code> <code>E-commerce</code> <code>Redis</code></p>
+<p>A multi-level marketing platform with crypto checkout, referral trees, multiple wallets, bonuses and withdrawals.</p>
+<p><code>Django</code> <code>Celery</code> <code>Plisio</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/hirbodprime/jobcollector">Job Collector</a></h3>
-<p>Job collection tooling combining website crawlers, Telegram integrations and asynchronous scheduling.</p>
-<p><code>Python</code> <code>Django</code> <code>asyncio</code></p>
+<h3><a href="https://github.com/hirbodprime/blackjack">BlackJack Casino Bot</a></h3>
+<p>A Telegram casino with multiplayer blackjack, horse racing, quests, inventory and referrals, used by 200+ active players.</p>
+<p><code>Python</code> <code>Django</code> <code>Telegram</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/hirbodprime/fridays">Fridays</a></h3>
-<p>A Django task management project with deadlines, member assignments and completion tracking.</p>
-<p><code>Django</code> <code>Task management</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/hirbodprime/dobare">Dobare</a></h3>
-<p>A clothing submission and catalog application with photo uploads, product stories and public product links.</p>
-<p><code>Django</code> <code>Product catalog</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/hirbodprime/django-coinmarketcap">Django CoinMarketCap</a></h3>
-<p>A Django interface for collecting cryptocurrency data and retrieving coins and logos by symbol.</p>
-<p><code>Django</code> <code>Data collection</code></p>
+<h3><a href="https://github.com/hirbodprime/BigPapa">Big Papa Games</a></h3>
+<p>Papa Chop, an HTML5 game that runs as a Telegram Mini App. <a href="https://bigpapagames.com/play">Play it here</a>.</p>
+<p><code>Python</code> <code>Canvas</code> <code>Telegram Mini App</code></p>
 </td>
 </tr>
 </table>
